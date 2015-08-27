@@ -18,7 +18,7 @@ x         xxxxx  eLLLLLL
 6                LLLLLLL
 x        HHssHH   LLLLLx
 COOOOOs  HHHHHH        4
-OOOOOOO  HHHHHe        x
+OOOOOOO  HHHHHw        x
 OOOOOOO  HHHHHH  sSSSSSK
 OOOOOOO  HHHHHH  SSSSSSS
 OOOOOOO  HHHHHH  SSSSSSS
